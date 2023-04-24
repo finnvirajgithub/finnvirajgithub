@@ -1,3 +1,5 @@
+![1_RAsZ2uD3ZO7-NCuK2MUILA](https://user-images.githubusercontent.com/84305394/234108092-c1573353-3e45-4376-b3dc-4cf2d2e9139e.gif)
+
 <h1 align="center">Hi 👋, I'm Sameera Rajapakshe</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka.</h3>
 
