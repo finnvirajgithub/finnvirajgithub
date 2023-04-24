@@ -1,8 +1,20 @@
-
 <h1 align="center">Hi 👋, I'm Sameera Rajapakshe</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka.</h3>
 
+- 🔭 I’m currently studing on University of Colombo
+- 🌱 I’m currently learning ReactJS, Laravel
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about web application developing.
+<!-- - 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finnvirajgithub" alt="finnvirajgithub" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=finnvirajgithub&label=Profile%20views&color=0e75b6&style=flat" alt="finnvirajgithub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/s_vee_88" target="blank"><img src="https://img.shields.io/twitter/follow/s_vee_88?logo=twitter&style=for-the-badge" alt="s_vee_88" /></a> </p>
 
@@ -30,17 +42,9 @@
 
 
 
-<!--
-**finnvirajgithub/finnvirajgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **finnvirajgithub/finnvirajgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
