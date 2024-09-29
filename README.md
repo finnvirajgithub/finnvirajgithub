@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Sri lanka.</h3>
 
 - 🔭 I’m currently studing on University of Colombo
-- 🌱 I’m currently learning ReactJS, Laravel
+- 🌱 I’m currently learning Java and OOP
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about web application developing.
