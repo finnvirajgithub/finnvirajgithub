@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sameera Rajapakshe</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka.</h3>
+<h3 align="center">A passionate Full stack developer from Sri lanka.</h3>
 
 - 🔭 I’m currently studing on University of Colombo
 - 🌱 I’m currently learning Java and OOP
